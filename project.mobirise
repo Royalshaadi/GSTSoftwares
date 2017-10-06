@@ -1,0 +1,862 @@
+{
+  "settings": {
+    "name": "ERP",
+    "currentPage": "GSTSoftwares",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "3.10",
+    "uniqCompNum": 17,
+    "versionPublish": "3.10",
+    "publishType": "github",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": "",
+    "publishPath": "file:///C:/Users/user/Desktop/New%20folder%20(4)/Royal%20shaadi%20apps%20add/Softwares",
+    "ftpLocation": "sftp://Billersolutions@Softwares:21",
+    "publishFtpPath": ""
+  },
+  "pages": {
+    "GSTSoftwares": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#27aae0"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-6",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#27aae0",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/images-6-128x128-69.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\".\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Biller Solutions<br>&nbsp;98461 04883</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box5-f\" target=\"_blank\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts3-d\" target=\"_blank\">CONTACT</a></li>",
+          "buttons": "    <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-9\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SOFTWARES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.cognitoforms.com/PuthumaaEnterprises/InquiryNow\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Enquiry Now!</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#553982",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "36px"
+            },
+            ".mbr-header__subtext": {
+              "color": "#000000",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "14px",
+              "text-align": "left"
+            },
+            ".mbr-article": {
+              "color": "#ffffff",
+              "font-size": "19px"
+            },
+            ".mbr-article P": {
+              "font-size": "19px"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffb809",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/image005-1400x818-78.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "Biller Solutions",
+          "meta": "(Suitable for more than 100 business cultures with excellent features)",
+          "text": "<p>* GST Ready ERP Accounting Software  With Mobile App.</p>* GST Ready Institute Management Sofware With  Mobile App.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#msg-box5-f\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">About Us</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#content4-g\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Softwares</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#image2-b\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Free DEMO</a>  "
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "15px"
+            },
+            ".mbr-article P": {
+              "font-size": "14px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-f",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/home-software-pic-3-1400x1482-22.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://youtu.be/x_KFH3Q1gas?t=65",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "About Us",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p></p><b><i>GST Billing Software - Excellent Software</i></b><div><b><i>Specially designed for the Indian Market</i></b></div><div>GST Billing Software – Modern Bill, has been developed in the way that there is no need to learn even the ABC of Computers or Accounts. Entry Screens are like Fill in the Blanks and user has to just input the data in boxes given. Even a layman without any basic knowledge of Accounts or computers can operate it without any hassle because it is so easy to handle.<div><p>Biller Solutions provides Trade wise softwares for various segments of market like Retail, Wholesale Shop , Distribution Firms, Mobile Shops, Computers Shop, Electronics  Shop, FMCG Dealers, Supermaker, Manufacturing Companies, Automobile Shop, Spare Parts Shop, Book Shops, Bakeries, Electrical Shop, Milk Booth, Hardware Shop, Church, Medical/Ayurveda Shops, Medical Labs, Textails, Vehichle Altration Shop, Grain Market,  Education, Healthcare, Apparels Shop , Footwear Shop , Readymade Garments Retail Showrooms,  Shools and Colleges, Agriculture, Hotels, Construction and Finance Segments. We had provided with mobile app in free of cost  for use to Customers and Business Owners.</p><p><b>After Sale Service Issues…</b></p><p></p><p></p>All the softwares are fully tested by more than 12000 users already. Bill Formats and most of the report printouts you can design yourself any time. For any kind of technical query our team is available on teamviewer.<p><br></p><p></p></div><p></p><p></p></div>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#content4-g\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Softwares</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.cognitoforms.com/PuthumaaEnterprises/InquiryNow\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Enquiry Now!</a>"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_styles": {
+            ".mbr-section-title .mbr-header__text": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "36px",
+              "color": "#553982"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "font-size": "19px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#b8312f"
+            },
+            "P": {
+              "color": "#000000",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "content4-g",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#34bef7",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": true,
+            "showSubheader": false,
+            "columns": 5,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "Software&nbsp;",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Speed PLUS",
+          "caption1": "<b>USE FULL..</b><br>Supermarkets , Retailers, Distributors,Wholesailers, Electrical Shops, Book Shop, Hardware Shop, Stationary Shop, Electronics shop, Mobile business, FMCG Agency, Computers Shop, Bakery Shop, &nbsp;Automobile Altration Shop, Vessal Shop, Home Appliances, Furniture Shop, Plywood Shop, Automobile Spare Parts Business, Pesticides / Fertilizers / Seeds store, kirana merchants, Patanjali Store, Grain Market, Any kind of Manufacturer, Trader Etc....<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#features1-9\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"></a> ",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Penny",
+          "caption2": "<b>USE FULL..</b><br>Tiles Shop, Textailes, Footware Shop, Redymade Guarments Shop, Textails Manufacturer, Textails &nbsp;Wholesaler or Textails Retailer Etc......",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#features1-9\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"></a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Focus PLUS",
+          "caption3": "<b>USE</b> <b>FULL</b>..<br>All type Of Institute <br>&amp; Schools Etc....<br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#features1-9\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"></a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Miracle",
+          "caption4": "<b>USE FULL.</b>.<br>Pharma Retailers, Pharma Wholesalers, Pharma Distributors, Chemists and Druggists, Medicine Shops, Hospital Dispensaries, Ayurvedic Medicine Dealers, Homoeopathy Drug Stores, 24 hour medical shops Etc...<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#features1-9\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"></a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "E- Lab",
+          "caption5": "<b>USE FULL..<br></b>All type of&nbsp;clinical labs",
+          "button5": "<a data-app-btn=\"true\" href=\"index.html#features1-9\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FEATURES</a> <a data-app-btn=\"true\" href=\"https://www.cognitoforms.com/PuthumaaEnterprises/InquiryNow\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Enquiry Now!</a> <a data-app-btn=\"true\" href=\"index.html#msg-box4-2\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">HOME</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "14px",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            "B": {
+              "font-size": "17px"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#553982",
+              "font-size": "18px"
+            },
+            "I": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "16px"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#b8312f",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "30px"
+            },
+            ".mbr-header__subtext": {
+              "color": "#000000",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "17px"
+            },
+            "H1": {
+              "font-size": "19px"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "features1-9",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fac51c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": true,
+            "showSubheader": true,
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "&nbsp;FEATURES",
+          "subheader": "GST Ready ERP Accounting Softwares with Mobile App",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/images-4-600x394-65.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "YOU MAY BE DOING ANY BUSINESS",
+          "caption1": "<i><b>We Support It</b><br></i>If you are running a super market, Electronics shop, Mobile business, FMCG Agency, Computers Shop, Book Shop, Bakery Shop, ,Tiles Shop, Textailes, Footware Shop, Automobile Altration Shop, Courier Companies, Church , Milk Booth, Lab, Medical Shops, Supermarkets, Vessal Shop, Hardware Shop, Home Appliances, Furniture Shop, Plywood Shop, Hotel with Lodge , Stationary Shop, Rental Business, Electrical Goods business, Automobile Spare Parts Business, Pesticides / Fertilizers / Seeds store, kirana merchants, Patanjali Store, Grain Market, Commission Agent, Any kind of Manufacturer, Trader, Agency holder, Distributor, Wholesaler or Retailer, this software is for you.<br><br><b>No Need to Learn</b><b><br></b>Business ERP has been developed in the way that there is no need to learn even the ABC of Computers or Accounts. Entry Screens are like Fill in the Blanks and user has to just input the data in boxes given. Even a layman without any basic knowledge of Accounts or computers can operate it without any hassle.<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#image2-b\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"></a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/image-1-copy-600x635-16.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "SPEED PLUS",
+          "caption2": "FEATURES<br>A Complete Business ERP Software that caters to every need of modern day business tycoons. Designed to help you eliminate all the complexities in business automation like organizing your Financial Accounts, Powerful Inventory Control, Label Printing, Cheque Printing, Barcode Printer for printing barcode tags., Illustrative Log Book, Window Based / DOS Based Printing, With Inventory / Without Inventory Accounting, Online Return E-Filing, Order Management, Mobile App, User-definable Optional Fields in Masters and Vouchers, Export Facility for each report to Tally, MS Word, Excel, PDF, Wordpad, HTML, SMS Plugin, Unlimited Fully Configurable Invoice Formats, Multi Company management, Intelligent Outstanding Analysis.<br><br>This means you will not have to spend your valuable time sweating over details of any inventory related or accounting related issue. With “Business ERP”, you need to ensure the accuracy while keying in your invoices, thereafter all documents, reports and statements will be generated automatically. Provides upto date information at your fingertips, keeping you better informed, helping you make quicker business decisions.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-link\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/image005-600x350-81.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "PENNY",
+          "caption3": "FEATURES<br>Mechanism of Penny especially designed to work as an organization to create a brand with sytematic approach. Develop long term customer relationship with features like \"reminder-setup (Auto SMS Technique)\" Which makes both customers and business HAPPY.<br>During development of Penny Software, our team mainly focused on costing point. Using Penny, You don't have any need to purchase separate Barcode Printer for printing barcode tags. With Hi End techniques Penny's tags are more than 98% cheaper. Saving your money.<br>Penny handles stock Item wise, Article wise, Size Wise, Color Wise. Which is very important for success of any organization. Penny's high end financial reports like Balance Sheet, Profit/Loss, Cash Book, Bank Book, Stock Summary etc. makes it a successful financial consultant.<br>Penny helps control leakage of stock, alteration/deletion of entries. In addition wonderful feature of Theft Control keeps a check over returning unsold items. That means you can rely over the loyalty of your faithful staff. In this way Penny protects and automates any organization<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-link\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/image040-600x350-37.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "FOCUS PLUS",
+          "caption4": "&nbsp;FEATURES<br>Focus Plus Software Esp. for Institute Management to maintain Enquiries, Admission, Fees, Course Master, Installment Management, Attendance, Accounts, Day Book, Ledger, Cash Book, Payments, Receipts, Cheque Printing, Easy Banking, Balance Sheet, Trial Balance, Profit/Loss, Trading Account, Multi Company, Bank reconciliation, Interest Calculation, Simple Sale / Purchase Vouchers, SMS Facility , Mobile App and much more. Everything that is important to computerize any institute.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#pricing-table1-a\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"></a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/204-600x350-2.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "MIRACLE",
+          "caption5": "FEATURES<br>ERP Software for Pharma Retailers, Wholesalers, Chemists and Druggists, Medicine Shops, Hospital Dispensaries, Ayurvedic Medicine Dealers, Homoeopathy Drug Stores, 24 hour medical shops to maintain their stock accurately, Manage Financial accounts perfectly and generate customer invoices beautifully.<br>Barcode Printer for printing barcode tags., Helps easily calculate medicine schemes, deals, Remember party wise rate list, keep a watch over expiry, &nbsp;Mobile App, Online Return E-Filing, maintain narcotics, schedule H, schedule H1 registers, make quick payment and even print cheques in professional way.<br>In every Medical Store, there is a need to automate their business. They need to manage their stock of medicines, medical equipments, expiry of medicines, billing etc. Managing all these things manually becomes difficult and if expiry medicine is given to customer then it’s a problem. So, every medical store requires a system through which their work becomes easy and organized. They will have the clear picture of the availability and shortage of stock and profit and loss analysis. Miracle solves the problem of every medical store in a very simple and user friendly way.<br>",
+          "button5": " <a data-app-btn=\"true\" href=\"index.html#msg-box4-2\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"></a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/new-patient-entry-in-lab-software-600x350-7.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "E-LAB",
+          "caption6": "FEATURES<br>Generate Accurate Test Reports, Maintain patient records &amp; keep total control over your business with e-Lab Software. E-Lab is such a solution that handles your precious data in a very compact and secure method, their is no file system so that your data redundancy is totally minimized. E-Lab is a very very simple software to operate. There is no need to learn. no need for any training of computers.",
+          "button6": "<a data-app-btn=\"true\" href=\"index.html#pricing-table1-a\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRICE</a> <a data-app-btn=\"true\" href=\"index.html#msg-box4-2\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">HOME PAGE</a> <a data-app-btn=\"true\" href=\"https://www.cognitoforms.com/PuthumaaEnterprises/InquiryNow\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Enquiry Now!</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_styles": {
+            "B": {
+              "color": "#333333",
+              "text-align": "left"
+            },
+            "SPAN": {
+              "font-size": "24px",
+              "text-align": "right"
+            },
+            "DIV": {
+              "font-size": "13px",
+              "text-align": "left"
+            },
+            "UL": {
+              "text-align": "left"
+            },
+            "P": {
+              "font-size": "18px"
+            },
+            "H3": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "pricing-table1-a",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#553982",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "hidden",
+            "showButtons": true,
+            "secondType": "orange",
+            "thirdType": "blue",
+            "fourthType": "orange",
+            "fifthType": "default"
+          },
+          "title1": "STANDARD",
+          "currency1": "$",
+          "price1": "0",
+          "period1": "per month",
+          "list1": "<ul><li><b>32 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>15 GB</b> Bandwidth</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title2": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Speed Plus<br>&nbsp; &nbsp; &nbsp; &nbsp;For Retailes &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp;Wholesalers",
+          "currency2": "",
+          "price2": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Rs:18,000",
+          "period2": "<b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;+ TAX</b>",
+          "list2": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mobile App - Available<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Yearly Renual Charge - NIL</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Demo &amp; Training - Available</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Technical Support - Available</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Validity - Long Life</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Software Type - Multi User</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Other Hidden Charges - NIL</div><div>&nbsp;Mobile App - Available To Customers &amp; Owner</div>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#image2-b\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Free Demo</a> ",
+          "title3": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Penny<br>&nbsp; &nbsp; &nbsp; &nbsp;For Textails Footware Shops",
+          "currency3": "",
+          "price3": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rs:18,000",
+          "period3": "<b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; + TAX</b>",
+          "list3": "<p></p><div><div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mobile App - Available</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yearly Renual Charge - NIL</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Demo &amp; Training - Available</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Technical Support - Available</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Validity - Long Life</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Software Type - Multi User</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Other Hidden Charges - NIL</div><div style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mobile App - Available To Owner</div></div><div><div><p></p><p></p></div></div></div>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.cognitoforms.com/PuthumaaEnterprises/InquiryNow\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">Enquiry Now!</a> ",
+          "title4": "&nbsp; Miracle &amp; E- Lab &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;For Medical &nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ayurveda",
+          "currency4": "",
+          "price4": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rs:16,000<br><br>",
+          "period4": "<b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;+ TAX</b>",
+          "list4": "<b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Mobile App - Available<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Yearly Renual Charge - NIL</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Demo &amp; Training - Available</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Technical Support - Available</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Validity - Long Life</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Software Type - Multi User</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Other Hidden Charges - NIL</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Mobile App -- Available to Owner</div><div><p></p></div>",
+          "button4": " <a data-app-btn=\"true\" href=\"index.html#image2-b\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Free Demo</a>",
+          "title5": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Focus Plus<br>&nbsp; &nbsp; &nbsp; For Institues",
+          "currency5": "",
+          "price5": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Rs:16,000",
+          "period5": "<b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; + TAX</b>",
+          "list5": "<p></p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b>Mobile App - Available<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Yearly Renual Charge - NIL</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Demo &amp; Training - Available</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Technical Support - Available</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Validity - Long Life</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Software Type - Multi User</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Other Hidden Charges - NIL</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mobile App - Available to Owner</div><div><p></p><p></p></div>",
+          "button5": " <a data-app-btn=\"true\" href=\"https://www.cognitoforms.com/PuthumaaEnterprises/InquiryNow\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Enquiry Now!</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_styles": {
+            "B": {
+              "font-size": "22px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#000000"
+            },
+            "SMALL": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "14px",
+              "color": "#553982"
+            }
+          },
+          "_anchor": "image2-b",
+          "_params": {
+            "outside": true,
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/images-1400x595-30.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "<b style=\"line-height: 1.3em;\">Biller Solutions</b><br>Koottanad, Palakkad Dt<br>Kerala 679 535<br>PH: 98461 04883<br>Mail: salesputhuma@gmail.com<br><br>Please Download \"Teamviewer\" / &nbsp;\"Any Desk\" Software From following Link for Get Free DEMO"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "buttons1-c",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://www.solversolutions.in/Downloads/TeamViewerQS.exe\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD Teamviewer</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"http://www.solversolutions.in/Downloads/AnyDesk.exe\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD Any Desk</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#msg-box4-2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Home Page</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://www.cognitoforms.com/PuthumaaEnterprises/InquiryNow\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Enquiry Now!</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "B": {
+              "color": "#000000",
+              "font-size": "14px"
+            },
+            ".btn": {
+              "font-size": "10px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "P": {
+              "color": "#000000"
+            },
+            "UL": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts3-d",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#5696de",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<b>ADDRESS<br>Biller Solutions<br>Koottanad, Pattambi<br>Palakkad Dt, KERALA<br><br>\nCONTACTS<br>\nEmail: salesputhuma@gmail.com<br>\nPhone: 98461 04883</b><br><b><br></b><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><b>LINKS</b></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://puthuma.puzl.com\" target=\"_blank\"><b>Business Offer</b></a></li><li><b><a href=\"https://financebazar.puzl.com\" target=\"_blank\" class=\"text-black\">Bank Loans</a></b></li><li><a href=\"https://quickbiller.puzl.com/business-offer\" target=\"_blank\"><b>Become a Business Partner</b></a><a href=\"https://quickbiller.puzl.com\" target=\"_blank\"><b></b></a></li><li><b><a href=\"https://www.cognitoforms.com/PuthumaaEnterprises/InquiryNow\" target=\"_blank\" class=\"text-black\">Enquiry Now</a>!</b></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "salesputhuma@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SUBMIT NOW!</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "social-buttons2-e",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a>        "
+        }
+      ]
+    }
+  }
+}
