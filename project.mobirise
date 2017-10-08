@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "ERP",
+    "name": "GST Softwares",
     "currentPage": "GSTSoftwares",
     "theme": {
       "name": "default",
@@ -15,9 +15,9 @@
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
-    "publishPath": "file:///C:/Users/user/Desktop/New%20folder%20(4)/Royal%20shaadi%20apps%20add/Softwares",
-    "ftpLocation": "sftp://Billersolutions@Softwares:21",
-    "publishFtpPath": ""
+    "publishPath": "file:///C:/Users/user/Desktop/New%20folder%20(4)/Royal%20shaadi%20apps%20add/GSTSoftwares",
+    "ftpLocation": "ftp://Billersolutions@gstsoftwares:21",
+    "publishFtpPath": "softwares"
   },
   "pages": {
     "GSTSoftwares": {
